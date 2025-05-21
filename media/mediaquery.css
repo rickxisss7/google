@@ -28,7 +28,7 @@ left: 100px;
   position: absolute;
   /* left: 890px; */
   /* top: 50%; */
-  transform: translateX(178px);
+  transform: translateX(170px);
   margin-top: -85px; }
 
 
@@ -51,7 +51,7 @@ left: 100px;
 
 .suggestions  {
     width: 72%;
-    left: 142px;
+    left: 130px;
 }
 
 }
