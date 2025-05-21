@@ -1,0 +1,57 @@
+@media (min-width:50px) and (max-width: 768px) {
+    #search {
+        width: 76%;
+        transform: translateX(25%);
+        
+    }
+
+    .rd2 {
+     gap: 20px;
+     flex-direction: column;
+    }
+
+    footer {
+        width: 100%;
+    }
+
+    .rodape2 {
+    display: flex;
+   justify-content: start;
+   
+}
+.suggestions {
+width: 50%;
+left: 100px;
+}
+
+.icones-direita {
+  position: absolute;
+  /* left: 890px; */
+  /* top: 50%; */
+  transform: translateX(192px);
+  margin-top: -85px; }
+
+
+
+
+.icones-direita img  {
+    width: 18px;
+}
+
+.icone-esquerda {
+  position: absolute;
+  left: 150px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 15px;
+  pointer-events: none;
+  z-index: 99;
+  
+}
+
+.suggestions  {
+    width: 73%;
+    left: 140px;
+}
+
+}
